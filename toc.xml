@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="o1b4t" APIVersion="10" Name="LibArmory" Description="Wildstar Armory - Game library">
+    <Script Name="LibArmory.lua"/>
+</Addon>
